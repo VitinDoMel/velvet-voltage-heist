@@ -1,0 +1,6 @@
+[
+  { "name": "1-heist-action.jpg", "query": "?shot=action&seed=1" },
+  { "name": "2-multi-route-recon.jpg", "query": "?shot=recon&seed=2" },
+  { "name": "3-high-tension-alarm.jpg", "query": "?shot=tension&seed=3" },
+  { "name": "4-getaway-debrief.jpg", "query": "?shot=getaway&seed=4" }
+]
